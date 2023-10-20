@@ -1,8 +1,28 @@
-안녕하세요 이하연입니다 
-======================
-<a href="https://tooyoung.tistory.com">✍🏻 티스토리</a>
+<div align=center> 
 
-<div align=center><h1>📚 STACKS</h1></div>
+### 🤚🏻 안녕하세요
+<div> 안녕하세요! 저는 숭실대학교 소프트웨어에 재학 중인 이하연이라고 합니다. </div>
+<br>
+<div> 타인과 함께 성장하는 것을 즐기며, 여러 분야를 공부하는 것을 좋아합니다. </div>
+<br>
+<div> 주언어는 C언어이지만, 최근에는 시스템보안과 빅데이터분석 공부를 하며 Python에도 흥미를 느껴 PS를 Python으로 진행해보고 있습니다. </div>
+<br>
+<div> 그 외에도 React, React-Native, HTML, CSS, Pug로 웹/모바일 어플리케이션의 프론트엔드를 제작해보는 중입니다. </div>
+<br>
+<div> 또한 Node.js와 Express, MongoDB, Firebase로 작은 서버와 DB를 만들어보고 있습니다. </div>
+<br>
+<div> 많은 사람들과 다양한 주제로 함께 협업하는 삶을 살고자 합니다. 감사합니다 🤗 </div>
+
+
+<br>
+
+
+### ✍🏻 개발블로그
+<a href="https://tooyoung.tistory.com">티스토리</a>
+
+<br>
+
+### 📚 STACKS
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=java&logoColor=white"> 
