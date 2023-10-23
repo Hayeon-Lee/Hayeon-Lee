@@ -1,14 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="./20201759.css" rel="stylesheet" />
+    <!--주석
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Noto+Sans+KR:wght@500&display=swap');
+
+        h2 {
+            background-color: antiquewhite;
+        }
+
+        body {
+            font-family: 'Nanum Gothic', sans-serif;
+            font-family: 'Noto Sans KR', sans-serif;
+            display: flex;
+            justify-content: center;
+        }
+
+        .profile__detail {
+            display: flex;
+            height: 280px;
+            width: 50vw;
+        }
+
+        .profile__detail__img img {
+            height: 260px;
+            width: 200px;
+        }
+
+        .profile__detail__info {
+            margin-left: 50px;
+        }
+
+        .profile__detail__info span {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .profile__detail__info a {
+            display: block;
+            margin-bottom: 10px;
+            color: black;
+            text-decoration: none;
+        }
+
+        .profile__detail__info a:hover {
+            color: #f0932b;
+            text-decoration: underline;
+        }
+
+        .teckstacks table {
+            width: 50vw;
+        }
+
+        .teckstacks table th {
+            background-color: #CDCDCD;
+            border-bottom: 1px solid #444444;
+        }
+    </style>
+    -->
+    <link href="./20201759.css" rel="stylesheet"/>
     <title>이하연의 포트폴리오</title>
 </head>
+
 <body>
     <div class="container">
-        <div class = "profile">
+        <div class="profile">
             <div>
                 <h2>Profile</h2>
             </div>
@@ -21,14 +80,14 @@
                     <span>타인과 함께 성장하는 것을 좋아하는 개발자 이하연입니다.</span>
                     <span>개발자로서 세상에 긍정적인 영향을 미치는 것이 목표입니다.</span>
                     <span>감사합니다.</span>
-                    <span>✉ email: papepopepe@naver.com</span>
-                    <span>📱 phone: 010-6607-5071</span>
-                    <a href="https://github.com/Hayeon-Lee">👩🏻‍💻 https://github.com/Hayeon-Lee</a>
-                    <a href="https://tooyoung.tistory.com/">✍🏻 https://tooyoung.tistory.com/</a>
+                    <span><i class="fa-regular fa-envelope"></i> email: papepopepe@naver.com</span>
+                    <span><i class="fa-solid fa-mobile"></i> phone: 010-6607-5071</span>
+                    <a href="https://github.com/Hayeon-Lee"><i class="fa-brands fa-github"></i> https://github.com/Hayeon-Lee</a>
+                    <a href="https://tooyoung.tistory.com/"><i class="fa-solid fa-book"></i> https://tooyoung.tistory.com/</a>
                 </div>
             </div>
         </div>
-        
+
         <br />
 
         <div class="education">
@@ -44,8 +103,96 @@
             <div>
                 <h2>보유 기술 스택</h2>
             </div>
-            
+            <div>
+                <table>
+                    <th>lang</th>
+                    <th>FE</th>
+                    <th>BE/CICD</th>
+                    <th>DB</th>
+                    <th>etc</th>
+                    <tr>
+                        <td>C/C++</td>
+                        <td>React</td>
+                        <td>Node.js</td>
+                        <td>Django</td>
+                        <td>Git</td>
+                    </tr>
+                    <tr>
+                        <td>HTML5/CSS</td>
+                        <td>React-Native</td>
+                        <td>Express</td>
+                        <td>MongoDB</td>
+                        <td>Github</td>
+                    </tr>
+                    <tr>
+                        <td>JS/TS</td>
+                        <td>Flutter</td>
+                        <td>Flask</td>
+                        <td>Firebase</td>
+                        <td>Linux</td>
+                    </tr>
+                    <tr>
+                        <td>Python</td>
+                        <td>Pug</td>
+                        <td>Docker</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                </table>
+            </div>
         </div>
+
+        <br />
+        <h1>완료 프로젝트</h1>
+
+        <div class="JAVA/C#">
+            <h2>JAVA/C#</h2>
+            <li>
+                아두이노를 활용한 리듬게임 터치패드 제작
+            </li>
+            <li>
+                유니티를 활용한 RPG형 리듬게임 제작
+            </li>
+        </div>
+
+        <br />
+
+        <div class="C/Python">
+            <h2>C/Python</h2>
+            <li>
+                C언어 튜터링 진행
+            </li>
+            <li>
+                OpenCV와 딥러닝을 활용한 졸음운전 탐지 모델 
+            </li>
+            <li>
+                Linux 환경에서 C언어를 활용한 시스템보안 프로젝트
+            </li>
+            <li>
+                Python과 Flask를 응용하여 구인구직 사이트 스크래핑 프로젝트
+            </li>
+        </div>
+
+        <br />
+
+        <div class="React">
+            <h2>React/React-Native</h2>
+            <li>
+                React를 활용한 CRM 프로그램 제작
+            </li>
+            <li>
+                React와 Firebase를 활용하여 소원을 비는 프로그램 제작
+            </li>
+            <li>
+                React-Native를 활용하여 자격증 관리 프로그램 제작
+            </li>
+            <li>
+                React-Native를 활용하여 인공지능 목소리 합성 앱 제작
+            </li>
+        </div>
+
     </div>
+    <script src="https://kit.fontawesome.com/b5ac015c11.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
