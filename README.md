@@ -5,11 +5,9 @@
 <br>
 <div> 타인과 함께 성장하는 것을 즐기며, 여러 분야를 공부하는 것을 좋아합니다. </div>
 <br>
-<div> 주언어는 C언어이지만, 최근에는 시스템보안과 빅데이터분석 공부를 하며 Python에도 흥미를 느껴 PS를 Python으로 진행해보고 있습니다. </div>
+<div> React와 styled-component, typescript로 웹 어플리케이션의 프론트엔드를 제작을 하고 있습니다. </div>
 <br>
-<div> 그 외에도 React, React-Native, HTML, CSS, Pug로 웹/모바일 어플리케이션의 프론트엔드를 제작해보는 중입니다. </div>
-<br>
-<div> 또한 Node.js와 Express, MongoDB, Firebase로 작은 서버와 DB를 만들어보고 있습니다. </div>
+<div> 그리고 NextJS와 tailwindcss에 흥미가 생겨 공부 중에 있습니다. </div>
 <br>
 <div> 많은 사람들과 다양한 주제로 함께 협업하는 삶을 살고자 합니다. 감사합니다 🤗 </div>
 
