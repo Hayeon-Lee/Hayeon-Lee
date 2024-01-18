@@ -5,7 +5,7 @@
 <br>
 <div> 타인과 함께 성장하는 것을 즐기며, 여러 분야를 공부하는 것을 좋아합니다. </div>
 <br>
-<div> React와 styled-component, typescript로 웹 어플리케이션의 프론트엔드를 제작을 하고 있습니다. </div>
+<div> React와 styled-component, typescript로 웹 어플리케이션의 프론트엔드를 개발하고 있습니다. </div>
 <br>
 <div> 그리고 NextJS와 tailwindcss에 흥미가 생겨 공부 중에 있습니다. </div>
 <br>
