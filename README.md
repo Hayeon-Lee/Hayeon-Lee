@@ -38,3 +38,7 @@
   <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=papepopepe)](https://solved.ac/papepopepe/)
+
+</div>
