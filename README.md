@@ -19,7 +19,7 @@
 
 <br>
 
-### 📚 MAIN STACKS
+### ✨ MAIN STACKS
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white"> 
